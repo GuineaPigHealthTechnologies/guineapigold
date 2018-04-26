@@ -3,4 +3,4 @@
 
 # Do not ignore this
 !.gitignore
-!app/public/wp-content/
+!/app/public/wp-content/
