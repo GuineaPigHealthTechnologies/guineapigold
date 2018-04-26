@@ -1,5 +1,6 @@
 # Ignore everything
 *
+app/public/wp-config.php
 
 # Do not ignore this
 !.gitignore
